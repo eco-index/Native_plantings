@@ -11,4 +11,4 @@ The Satellite data collection is all completed within the eco-index-main directo
 
 Finally, eco-Index created a script which georeferences the detections as they are output from the prithvi model in order to validate within a googleearth or GIS environment.
 
-The current model is predicting where native plantings are to a XX percentage by using an IOU calculation. Further refinement to add additional training data to the model would help to improve this accuarcy. 
+The current model is predicting where native plantings are to a 6.5% by using an IOU calculation. Further refinement to add additional training data to the model would help to improve this accuarcy. 
